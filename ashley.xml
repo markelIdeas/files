@@ -1,0 +1,19 @@
+<tmwx>
+    <targets>
+        <object id="[A]" imageUrl="" name="" newUXImageURL="images/thumbs/ashley/A.jpg" url="https://www.ashleyfurniturehomestore.com/p/abbots-court-loveseat-glider-wtable-set-of-/p360-035/" zOrder="1" />
+        <object id="[B]" imageUrl="" name="" newUXImageURL="images/thumbs/ashley/B.jpg" url="https://www.ashleyfurniturehomestore.com/p/burnella--piece-outdoor-rectangular-dining-set/apg-p456-7p/" zOrder="1" />
+        <object id="[C]" imageUrl="" name="" newUXImageURL="images/thumbs/ashley/C.jpg" url="https://www.ashleyfurniturehomestore.com/p/burnella--piece-outdoor-fire-pit-chat-set/apg-p456-6p/" zOrder="1" />
+        <object id="[D]" imageUrl="" name="" newUXImageURL="images/thumbs/ashley/D.jpg" url="https://www.ashleyfurniturehomestore.com/p/partanna-barstool-with-cushion-set-of-/p556-130/" zOrder="1" />
+        <object id="[E]" imageUrl="" name="" newUXImageURL="images/thumbs/ashley/E.jpg" url="https://www.ashleyfurniturehomestore.com/p/zoranne-swivel-lounge-chair-set-of-/p764-821/" zOrder="1" />
+        <!--<object id="[E]" imageUrl="" name="" newUXImageURL="images/thumbs/E.jpg" url="https://www.ashleyfurniturehomestore.com/p/zoranne-swivel-lounge-chair-set-of-/p764-821/" zOrder="1" />-->
+    </targets>
+    <tags>
+        <tag f="250" t0="8.33" tf="11.00" x="1" y="3" w="1017" h="567" objectID="[A]" />
+        <tag f="587" t0="19.57" tf="22.00" x="8" y="8" w="1006" h="559" objectID="[B]" />
+        <tag f="695" t0="23.17" tf="26.00" x="7" y="5" w="1008" h="563" objectID="[C]" />
+        <tag f="473" t0="15.77" tf="18.00" x="235" y="137" w="561" h="433" objectID="[D]" />
+        <tag f="362" t0="12.07" tf="14.00" x="204" y="3" w="811" h="564" objectID="[E]" />
+        <tag f="362" t0="12.07" tf="14.00" x="0" y="174" w="194" h="377" objectID="[E]" />
+    </tags>
+</tmwx>
+
